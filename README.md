@@ -9,3 +9,4 @@ It also helps hide the clutter involved in replying to emails (the replying-to t
 
 Feel free to use the code, it's basically just a full-screen dyslexia-friendly letter composer.
 
+<img src="https://raw.github.com/iandundas/Nana/master/screenshot-a.png" />
