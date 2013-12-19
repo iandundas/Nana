@@ -22,7 +22,13 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>OpenDyslexic-Regular.ttf</string>
+	</array>
 	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
